@@ -1,8 +1,8 @@
 <div align="center">
 
-Hi 👋, I'm Ekta 
+<h1>Hi 👋, I'm Ekta</h1>
 
-Java Full-Stack Developer | Building practical web applications
+<h3>Java Full-Stack Developer | Building practical web applications</h3>
 
 <p>
   <a href="https://github.com/ektas-dev">
@@ -15,21 +15,17 @@ Java Full-Stack Developer | Building practical web applications
 
 </div>
 
-👩‍💻 About Me
+## 👩‍💻 About Me
 
-I'm a Java Full-Stack Developer focused on building practical web applications and strengthening my software engineering skills through hands-on development.
+I'm a Java Full-Stack Developer focused on building practical web applications and strengthening my software development skills through hands-on projects.
 
-🔭 Currently working on: Full-stack development projects and my developer portfolio
+- 🔭 Currently working on: Full-stack development projects and my developer portfolio
+- 🌱 Currently learning: Artificial Intelligence and continuously improving my development skills
+- 💬 Ask me about: Java, Spring Boot, REST APIs, React, and full-stack development
+- 🎨 Fun fact: I enjoy illustrating in my free time
+- 🎬 Another fun fact: I'm a K-drama enthusiast
 
-🌱 Currently learning: Artificial Intelligence and continuously improving my software development skills
-
-💬 Ask me about: Java, Spring Boot, REST APIs, React, and full-stack development
-
-🎨 Fun fact: I enjoy illustrating in my free time
-
-🎬 Another fun fact: I'm a K-drama enthusiast
-
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
@@ -53,37 +49,34 @@ I'm a Java Full-Stack Developer focused on building practical web applications a
 ## 🚀 Featured Projects
 
 ### 📋 Taskly
-Full-stack task management and Kanban application built with Spring Boot and React, featuring JWT authentication, role-based authorization, REST APIs, JPA/Hibernate, drag-and-drop workflows, and an admin dashboard.
 
-[View Project →](https://github.com/ektas-dev/kanban-board-task-management)
+Full-stack task management and Kanban application built with Spring Boot and React, featuring JWT authentication, role-based authorization, REST APIs, JPA/Hibernate, drag-and-drop workflows, and an administrative dashboard.
+
+**[View Project →](https://github.com/ektas-dev/kanban-board-task-management)**
 
 ### 🌐 Developer Portfolio
+
 Personal developer portfolio website showcasing projects, technical skills, experience, and professional profile.
 
-[View Project →](https://github.com/ektas-dev/portfolio-website)
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Public%20Repositories-15-2F81F7?style=for-the-badge&logo=github&logoColor=white" alt="15 public repositories">
-  <img src="https://img.shields.io/badge/Stars%20Received-0-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="0 stars received">
-</p>
-
-🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ektas-dev&theme=tokyonight&hide_border=true" alt="GitHub contribution streak">
-</p>
+**[View Project →](https://github.com/ektas-dev/portfolio-website)**
 
 ## 📈 Contribution Activity
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ektas-dev&theme=github-compact&hide_border=true&radius=8)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ektas-dev&theme=github-compact&hide_border=true&radius=8" alt="GitHub Contribution Graph">
+</p>
 
 ## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ektas-dev&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ektas-dev&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats">
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ektas-dev&layout=compact&hide_border=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ektas-dev&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages">
+</p>
 
-🤝 Connect With Me
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ekta-s-72b880236/">
