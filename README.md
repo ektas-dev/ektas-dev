@@ -1,6 +1,6 @@
 <div align="center">
 
-Hi 👋, I'm Ekta S
+Hi 👋, I'm Ekta 
 
 Java Full-Stack Developer | Building practical web applications
 
