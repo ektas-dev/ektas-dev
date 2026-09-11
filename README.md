@@ -6,13 +6,10 @@ Java Full-Stack Developer | Building practical web applications
 
 <p>
   <a href="https://github.com/ektas-dev">
-    <img src="https://img.shields.io/badge/GitHub-ektas--dev-181717?style=for-the-badge&logo=github" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-ektas--dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://www.linkedin.com/in/ekta-s-72b880236/">
     <img src="https://img.shields.io/badge/LinkedIn-Ekta%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:ektasollet12@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ektasollet12%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
@@ -22,128 +19,79 @@ Java Full-Stack Developer | Building practical web applications
 
 I'm a Java Full-Stack Developer focused on building practical web applications and strengthening my software engineering skills through hands-on development.
 
-🔭 Currently working on Taskly — Full-Stack Task Management & Kanban Application
+🔭 Currently working on: Full-stack development projects and my developer portfolio
 
-🌱 Currently learning Artificial Intelligence
+🌱 Currently learning: Artificial Intelligence and continuously improving my software development skills
 
-💬 Ask me about Java, Spring Boot, REST APIs, React, and full-stack development
+💬 Ask me about: Java, Spring Boot, REST APIs, React, and full-stack development
 
-📫 Reach me at ektasollet12@gmail.com
+🎨 Fun fact: I enjoy illustrating in my free time
 
-📍 Based in India
+🎬 Another fun fact: I'm a K-drama enthusiast
 
 🛠️ Tech Stack
 
-Backend & Programming
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" height="42" alt="Java">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="42" height="42" alt="Spring Boot">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript">
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 </p>
 
-Frontend
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="42" height="42" alt="React">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="42" height="42" alt="HTML5">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="42" height="42" alt="CSS3">
-</p>
-
-Databases, Testing & Tools
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="42" height="42" alt="MySQL">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="42" height="42" alt="PostgreSQL">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42" height="42" alt="Git">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" width="42" height="42" alt="Maven">
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit">
-  <img src="https://img.shields.io/badge/Mockito-78C257?style=flat-square&logoColor=white" alt="Mockito">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman">
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit">
+  <img src="https://img.shields.io/badge/Mockito-78C257?style=for-the-badge&logoColor=white" alt="Mockito">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
 
 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+📋 Taskly — Full-Stack Task Management & Kanban Application
 
-📋 Taskly
+A full-stack task management application built with Spring Boot and React, featuring authentication, role-based authorization, REST APIs, JPA/Hibernate, drag-and-drop Kanban workflows, and an administrative dashboard.
 
-Full-stack task management and Kanban application built with Spring Boot and React.
-
-Highlights
-
-JWT authentication
-
-USER / ADMIN authorization
-
-REST APIs
-
-JPA/Hibernate
-
-Drag-and-drop Kanban
-
-Admin dashboard
-
-JUnit & Mockito testing
-
-<a href="https://github.com/ektas-dev/kanban-board-task-management">
-  <img src="https://github-stats-extended.vercel.app/api/pin?username=ektas-dev&repo=kanban-board-task-management&theme=tokyonight&hide_border=true" alt="Taskly repository">
-</a>
-
-</td>
-<td width="50%">
-
-🌐 Portfolio Website
-
-Personal portfolio website showcasing projects, skills, and developer profile.
-
-<a href="https://github.com/ektas-dev/portfolio-website">
-  <img src="https://github-stats-extended.vercel.app/api/pin?username=ektas-dev&repo=portfolio-website&theme=tokyonight&hide_border=true" alt="Portfolio repository">
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
+<p>
+  <a href="https://github.com/ektas-dev/kanban-board-task-management">
+    <img src="https://img.shields.io/badge/View%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Taskly source code">
+  </a>
+</p>
 
 🧾 File Handling Utility
 
-Java-based utility demonstrating file creation, reading, writing, modification, deletion, validation, and exception handling.
+A Java application demonstrating file creation, reading, writing, modification, deletion, input validation, and exception handling.
 
-<a href="https://github.com/ektas-dev/file-handling-utility">
-  <img src="https://github-stats-extended.vercel.app/api/pin?username=ektas-dev&repo=file-handling-utility&theme=tokyonight&hide_border=true" alt="File Handling Utility repository">
-</a>
+<p>
+  <a href="https://github.com/ektas-dev/file-handling-utility">
+    <img src="https://img.shields.io/badge/View%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="File Handling Utility source code">
+  </a>
+</p>
 
-</td>
-<td width="50%">
+🌐 Developer Portfolio
 
-📚 More Projects
+Personal portfolio website for showcasing my projects, technical skills, and developer profile.
 
-Explore my repositories for Java, Spring Boot, React, JavaScript, and other development practice projects.
-
-<a href="https://github.com/ektas-dev?tab=repositories">
-  <img src="https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories">
-</a>
-
-</td>
-</tr>
-</table>
+<p>
+  <a href="https://github.com/ektas-dev/portfolio-website">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio repository">
+  </a>
+</p>
 
 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ektas-dev&theme=tokyonight" alt="GitHub statistics">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ektas-dev&theme=tokyonight" alt="Repositories by language">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ektas-dev&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub statistics">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ektas-dev&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ektas-dev&theme=tokyonight" alt="GitHub contribution overview">
+  <img src="https://img.shields.io/badge/Public%20Repositories-15-2F81F7?style=for-the-badge&logo=github&logoColor=white" alt="15 public repositories">
+  <img src="https://img.shields.io/badge/Stars%20Received-0-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="0 stars received">
 </p>
 
 🔥 Contribution Streak
@@ -158,7 +106,7 @@ Explore my repositories for Java, Spring Boot, React, JavaScript, and other deve
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ektas-dev&theme=github-compact&hide_border=true&radius=8" alt="GitHub contribution activity graph">
 </p>
 
-🔗 Connect With Me
+🤝 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ekta-s-72b880236/">
@@ -173,9 +121,9 @@ Explore my repositories for Java, Spring Boot, React, JavaScript, and other deve
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ektas-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=ektas-dev&label=Profile%20Views&color=2F81F7&style=flat" alt="Profile views">
 </p>
 
 <p align="center">
-  <i>Building, learning, and improving one project at a time.</i>
+  <i>Code • Create • Learn • Repeat</i>
 </p>
