@@ -1,30 +1,181 @@
-<h1 align="center">Hi 👋, I'm Ekta S</h1>
-<h3 align="center">Java Full-Stack Developer | Building practical web applications</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ektas-dev&label=Profile%20views&color=0e75b6&style=flat" alt="ektas-dev" /> </p>
+Hi 👋, I'm Ekta S
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ektas-dev" alt="ektas-dev" /></a> </p>
+Java Full-Stack Developer | Building practical web applications
 
-- 🔭 I’m currently working on [Portfolio](https://github.com/ektas-dev/portfolio-website)
-
-- 🌱 I’m currently learning **Artificial Intelligence**
-
-- 💬 Ask me about **Java, Spring Boot & Full-Stack Development**
-
-- 📫 How to reach me **ektasollet12@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ekta-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ekta-s" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ektasollet12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ektasollet12" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ektas12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ektas12" height="30" width="40" /></a>
+<p>
+  <a href="https://github.com/ektas-dev">
+    <img src="https://img.shields.io/badge/GitHub-ektas--dev-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/ekta-s-72b880236/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ekta%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:ektasollet12@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ektasollet12%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ektas-dev&show_icons=true&locale=en&layout=compact" alt="ektas-dev" /></p>
+👩‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ektas-dev&show_icons=true&locale=en" alt="ektas-dev" /></p>
+I'm a Java Full-Stack Developer focused on building practical web applications and strengthening my software engineering skills through hands-on development.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ektas-dev&" alt="ektas-dev" /></p>
+🔭 Currently working on Taskly — Full-Stack Task Management & Kanban Application
+
+🌱 Currently learning Artificial Intelligence
+
+💬 Ask me about Java, Spring Boot, REST APIs, React, and full-stack development
+
+📫 Reach me at ektasollet12@gmail.com
+
+📍 Based in India
+
+🛠️ Tech Stack
+
+Backend & Programming
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" height="42" alt="Java">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="42" height="42" alt="Spring Boot">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript">
+</p>
+
+Frontend
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="42" height="42" alt="React">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="42" height="42" alt="HTML5">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="42" height="42" alt="CSS3">
+</p>
+
+Databases, Testing & Tools
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="42" height="42" alt="MySQL">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="42" height="42" alt="PostgreSQL">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42" height="42" alt="Git">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" width="42" height="42" alt="Maven">
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit">
+  <img src="https://img.shields.io/badge/Mockito-78C257?style=flat-square&logoColor=white" alt="Mockito">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman">
+</p>
+
+🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+📋 Taskly
+
+Full-stack task management and Kanban application built with Spring Boot and React.
+
+Highlights
+
+JWT authentication
+
+USER / ADMIN authorization
+
+REST APIs
+
+JPA/Hibernate
+
+Drag-and-drop Kanban
+
+Admin dashboard
+
+JUnit & Mockito testing
+
+<a href="https://github.com/ektas-dev/kanban-board-task-management">
+  <img src="https://github-stats-extended.vercel.app/api/pin?username=ektas-dev&repo=kanban-board-task-management&theme=tokyonight&hide_border=true" alt="Taskly repository">
+</a>
+
+</td>
+<td width="50%">
+
+🌐 Portfolio Website
+
+Personal portfolio website showcasing projects, skills, and developer profile.
+
+<a href="https://github.com/ektas-dev/portfolio-website">
+  <img src="https://github-stats-extended.vercel.app/api/pin?username=ektas-dev&repo=portfolio-website&theme=tokyonight&hide_border=true" alt="Portfolio repository">
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+🧾 File Handling Utility
+
+Java-based utility demonstrating file creation, reading, writing, modification, deletion, validation, and exception handling.
+
+<a href="https://github.com/ektas-dev/file-handling-utility">
+  <img src="https://github-stats-extended.vercel.app/api/pin?username=ektas-dev&repo=file-handling-utility&theme=tokyonight&hide_border=true" alt="File Handling Utility repository">
+</a>
+
+</td>
+<td width="50%">
+
+📚 More Projects
+
+Explore my repositories for Java, Spring Boot, React, JavaScript, and other development practice projects.
+
+<a href="https://github.com/ektas-dev?tab=repositories">
+  <img src="https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories">
+</a>
+
+</td>
+</tr>
+</table>
+
+📊 GitHub Analytics
+
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ektas-dev&theme=tokyonight" alt="GitHub statistics">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ektas-dev&theme=tokyonight" alt="Repositories by language">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ektas-dev&theme=tokyonight" alt="GitHub contribution overview">
+</p>
+
+🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ektas-dev&theme=tokyonight&hide_border=true" alt="GitHub contribution streak">
+</p>
+
+📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ektas-dev&theme=github-compact&hide_border=true&radius=8" alt="GitHub contribution activity graph">
+</p>
+
+🔗 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ekta-s-72b880236/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.hackerrank.com/ektasollet12">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank">
+  </a>
+  <a href="https://leetcode.com/ektas12/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ektas-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views">
+</p>
+
+<p align="center">
+  <i>Building, learning, and improving one project at a time.</i>
+</p>
