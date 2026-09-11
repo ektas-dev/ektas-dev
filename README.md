@@ -50,44 +50,17 @@ I'm a Java Full-Stack Developer focused on building practical web applications a
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
 
-🚀 Featured Projects
+## 🚀 Featured Projects
 
-📋 Taskly — Full-Stack Task Management & Kanban Application
+### 📋 Taskly
+Full-stack task management and Kanban application built with Spring Boot and React, featuring JWT authentication, role-based authorization, REST APIs, JPA/Hibernate, drag-and-drop workflows, and an admin dashboard.
 
-A full-stack task management application built with Spring Boot and React, featuring authentication, role-based authorization, REST APIs, JPA/Hibernate, drag-and-drop Kanban workflows, and an administrative dashboard.
+[View Project →](https://github.com/ektas-dev/kanban-board-task-management)
 
-<p>
-  <a href="https://github.com/ektas-dev/kanban-board-task-management">
-    <img src="https://img.shields.io/badge/View%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Taskly source code">
-  </a>
-</p>
+### 🌐 Developer Portfolio
+Personal developer portfolio website showcasing projects, technical skills, experience, and professional profile.
 
-🧾 File Handling Utility
-
-A Java application demonstrating file creation, reading, writing, modification, deletion, input validation, and exception handling.
-
-<p>
-  <a href="https://github.com/ektas-dev/file-handling-utility">
-    <img src="https://img.shields.io/badge/View%20Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="File Handling Utility source code">
-  </a>
-</p>
-
-🌐 Developer Portfolio
-
-Personal portfolio website for showcasing my projects, technical skills, and developer profile.
-
-<p>
-  <a href="https://github.com/ektas-dev/portfolio-website">
-    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio repository">
-  </a>
-</p>
-
-📊 GitHub Analytics
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ektas-dev&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub statistics">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ektas-dev&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages">
-</p>
+[View Project →](https://github.com/ektas-dev/portfolio-website)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Public%20Repositories-15-2F81F7?style=for-the-badge&logo=github&logoColor=white" alt="15 public repositories">
@@ -100,11 +73,15 @@ Personal portfolio website for showcasing my projects, technical skills, and dev
   <img src="https://streak-stats.demolab.com/?user=ektas-dev&theme=tokyonight&hide_border=true" alt="GitHub contribution streak">
 </p>
 
-📈 Contribution Activity
+## 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ektas-dev&theme=github-compact&hide_border=true&radius=8" alt="GitHub contribution activity graph">
-</p>
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ektas-dev&theme=github-compact&hide_border=true&radius=8)
+
+## 📊 GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ektas-dev&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ektas-dev&layout=compact&hide_border=true&theme=tokyonight)
 
 🤝 Connect With Me
 
